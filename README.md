@@ -1,0 +1,1 @@
+# Inverted-Search-Using-Hash-Table-in-C
